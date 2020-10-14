@@ -1,9 +1,13 @@
-p.intro {
-  width: 50%;
+.flashy {
+  color: red;
   font-style: italic;
 }
-p.author {
-  width: 75%;
-  font-style: italic;
+h1, h2 {
+  color: yellow;
+}
+
+.best {
   font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: royalblue;
 }
