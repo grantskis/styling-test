@@ -11,3 +11,7 @@ h1, h2 {
   text-transform: uppercase;
   text-shadow: royalblue;
 }
+
+img {
+  text-align: center;
+}
